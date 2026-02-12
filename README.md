@@ -16,8 +16,6 @@
 
 ## Overview
 
-## Overview
-
 This project builds an operations analytics dashboard to monitor report volume, resolution efficiency, and workload distribution using SQL and Power BI.  
 The goal is to transform raw event data into clear, actionable metrics that help track performance, identify bottlenecks, and support faster decision-making.
 
